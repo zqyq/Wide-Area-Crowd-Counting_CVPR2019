@@ -1,7 +1,7 @@
 # Multi-view-crowd-counting
 This the code maintaining platform for multi-view crowd counting.
 
-## Wide-Area Crowd Counting via Ground-Plane Density Maps and Multi-View Fusion CNNs, CVPR 2019
+## [Wide-Area Crowd Counting via Ground-Plane Density Maps and Multi-View Fusion CNNs, CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Wide-Area_Crowd_Counting_via_Ground-Plane_Density_Maps_and_Multi-View_Fusion_CVPR_2019_paper.html)
 
 ![alt text](http://visal.cs.cityu.edu.hk/wp/wp-content/uploads/MVMS-2.jpg)
 
