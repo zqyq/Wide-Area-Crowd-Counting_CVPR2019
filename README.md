@@ -9,15 +9,16 @@ Crowd counting in single-view images has achieved outstanding performance on exi
 ### Dataset Download:
 The dataset is about 16 GB. You can download it here:
 
-[Google Drive][https://drive.google.com/open?id=11hK1REG3P35S9ANXk1YB7C1-_SS_LQGJ]
-[Baidu Disk][https://pan.baidu.com/s/121YyyhLX4ff6iaATHn4hWg], pwd: 5wca
+- [Google Drive](https://drive.google.com/open?id=11hK1REG3P35S9ANXk1YB7C1-_SS_LQGJ)
+   
+- [Baidu Disk](https://pan.baidu.com/s/121YyyhLX4ff6iaATHn4hWg), pwd: 5wca
 
 ### Cite paper:
-@inproceedings{zhang2019wide,
-title={Wide-Area Crowd Counting via Ground-Plane Density Maps and Multi-View Fusion CNNs},
-author={Zhang, Qi and Chan, Antoni B},
-booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-pages={8297–8306},
-year={2019}
-}
+    @inproceedings{zhang2019wide,
+    title={Wide-Area Crowd Counting via Ground-Plane Density Maps and Multi-View Fusion CNNs},
+    author={Zhang, Qi and Chan, Antoni B},
+    booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+    pages={8297–8306},
+    year={2019}
+    }
 
