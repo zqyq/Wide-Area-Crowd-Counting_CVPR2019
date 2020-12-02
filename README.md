@@ -9,7 +9,7 @@ Crowd counting in single-view images has achieved outstanding performance on exi
 
 ### Result:
 
-[![Watch the video](https://img.youtube.com/vi/KIjuRPzSxV8/maxresdefault.jpg)](https://youtu.be/KIjuRPzSxV8)
+[![Watch the video](https://img.youtube.com/vi/KIjuRPzSxV8/hqdefault.jpg)](https://youtu.be/KIjuRPzSxV8)
 
 ### Dataset Download:
 The dataset is about 16 GB. You can download it here:
