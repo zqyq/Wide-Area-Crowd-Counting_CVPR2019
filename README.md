@@ -17,7 +17,7 @@ The implementation is based on Keras and Tensorflow.
 
 The coordinate transforming from image to world plane in the projection layer is originally implemented by calculating the coordinate correspondence in advance, and then load the corresponding image coordinate for each world plane coordinate. See in spatial_transformer.py.
 
-The calculatation can also be performed in the layer, and see spatial_transformer_v2.py.
+The calculation can also be performed in the layer, and see spatial_transformer_v2.py.
 
 ### Dataset Download:
 The dataset is about 16 GB. You can download it here:
