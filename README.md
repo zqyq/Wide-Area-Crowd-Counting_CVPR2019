@@ -34,4 +34,11 @@ The dataset is about 16 GB. You can download it here:
     pages={8297–8306},
     year={2019}
     }
+    
+    @inproceedings{zhang2020wide,
+    title={Wide-Area Crowd Counting: Multi-View Fusion Networks for Counting in Large Scenes},
+    author={Zhang, Qi and Chan, Antoni B},
+    booktitle={https://arxiv.org/abs/2012.00946},
+    year={2020}
+    }
 
